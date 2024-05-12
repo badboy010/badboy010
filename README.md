@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jha@prashun
+- 👋 Hi, I’m @Prashun Jha
 - 👀 I’m interested in coding, designing, editing and gaming
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
